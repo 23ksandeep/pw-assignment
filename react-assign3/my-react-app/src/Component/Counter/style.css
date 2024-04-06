@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main_div{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(191, 255, 0);
+    justify-content: center;
+    text-align: center;
+    margin-top: 10% ;
+    margin-left: 40%;
+
+}
+
+
+.number {
+   padding-top: 100px;
+    color: brown;
+    
+    font-size: 50px;
+    
+}
+
+ .btn{
+ width: 100%;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+button{
+    min-height: 50px;
+    width: 110px;
+    border-radius: 5%;
+    border-color: transparent;
+    background-color: #30336b;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin-top: 80px;
+}
+
+button:hover{
+    background-color: #13df32;
+}
