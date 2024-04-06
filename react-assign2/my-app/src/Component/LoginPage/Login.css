@@ -1,0 +1,99 @@
+*{
+    font-family: sans-serif;
+}
+
+ .title{
+    font-family: 'Pacifico', cursive;
+    margin: 2.8rem 0rem;
+    font-size: 2.4rem;
+    color: rgb(52, 52, 52);
+} 
+
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page{
+    margin-top: 4.3rem;
+}
+
+/* .pageone{
+    margin-top: 4.2;
+} */
+
+.first-container{
+    border: 2px solid rgb(214, 214, 214);
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+
+/* .fb{
+    width: 1.5rem;
+} */
+
+
+ .inpt{
+    padding: .6rem;
+    width: 15.3rem;
+    margin-bottom: 1rem;
+    outline: 1.2px solid rgb(193, 193, 193);
+    border: none;
+    background-color: rgb(233, 233, 233, 0.293);
+   
+}
+
+.loginbtn{
+    background-color: rgba(75, 153, 255);
+    border: none;
+    width: 16.8rem;
+    padding: .7rem;
+    font-size: .9rem;
+    color: white;
+    font-weight: bold;
+    border-radius: .4rem;
+
+}
+ .or{
+   color: rgb(78, 77, 77);
+   font-size: .8rem;
+ }
+.logofb{
+    font-size: 1rem;
+    color: rgb(44, 44, 213);
+    margin-top: -3px;
+}
+
+.pass{
+    font-size: .8rem;
+    color: rgb(44, 44, 213);
+    margin-top: -4px;
+}
+
+.second-container{
+    border: 2px solid rgb(214, 214, 214);
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+    margin-top: .4rem;
+    font-size: .9rem;
+    color: gray;
+    padding: .5rem 0rem;
+}
+
+span{
+    color: rgb(64, 64, 198);
+    font-weight: 500;
+    cursor: pointer;
+}
